@@ -17,7 +17,7 @@ window.SITE_CONFIG = {
 
   disclaimer: {
     short:
-      "Academic project for a university course. Educational purposes only. Not an official city analysis, consultation, or endorsement.",
+      "This work was completed as an academic smart transportation project. The study results are provided only for educational purposes and do not represent an official analysis or position of any organization.",
     long:
       "This work was completed as an academic smart transportation project. The study results are provided only for educational purposes and do not represent an official analysis or position of any organization.",
     videoOverlaySuggestion:
