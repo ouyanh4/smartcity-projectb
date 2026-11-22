@@ -10,9 +10,9 @@ window.SITE_CONFIG = {
     tagline: "Course Project: Smart Cities and Communities",
 
     studentName: "Haonan Ouyang",
-    program: "BTech, W Booth School of Engineering Practice and Technology",
+    program: "BTech Automation Engineering Technology",
     university: "McMaster University, Canada",
-    email: "haonan.ouyang@example.com"
+    email: "ouyanh4@solutions.ca"
   },
 
   disclaimer: {
@@ -189,9 +189,9 @@ window.SITE_CONFIG = {
       "This section clarifies academic context, roles, tools, and sources. Clear attribution improves credibility and shows ethical data handling.",
 
     members: [
-      { name: "Haonan Ouyang", role: "3D Asset Generation and Blender Modelling (A05–A10: vegetation, buildings, street furniture)" },
-      { name: "Nicolas Jao", role: "3D Asset Generation and Blender Modelling (A01–A04: locomotive, coach, station, platform)" },
-      { name: "Jacob Kwan", role: "3D Asset Generation and Blender Modelling (A11–A13: lighting, fence, warning sign)" }
+      { name: "Haonan Ouyang", role: "3D Asset Generation and Blender Modelling (A05–A10: vegetation, buildings, street furniture) + Report B Writing" },
+      { name: "Nicolas Jao", role: "3D Asset Generation and Blender Modelling (A01–A04: locomotive, coach, station, platform) + 360° Video Production and Verification" },
+      { name: "Jacob Kwan", role: "3D Asset Generation and Blender Modelling (A11–A13: lighting, fence, warning sign) + Report B Writing" }
     ],
 
     acknowledgments: [
